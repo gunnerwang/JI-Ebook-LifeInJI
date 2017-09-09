@@ -6,7 +6,7 @@ menu: 2017-zh-cn-menu.html
 # 大一秋季课程
 
 ## VV186
-Horst Hohberger         218 室 
+Horst Hohberger1         218 室 
 
 ## VV156
 Jing Liu                204 室
